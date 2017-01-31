@@ -1,4 +1,4 @@
-# rx-mipush
+# rxs-push-services
 
 Prescription to block common push services
 
