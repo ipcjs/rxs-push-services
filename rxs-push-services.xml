@@ -1,6 +1,6 @@
 <prescriptions xmlns="http://greenify.github.io/schemas/prescription/v1">
-  <prescription link="/greenify/rx-mipush" />
-  <prescription link="/greenify/rx-baidu-push" />
+  <prescription link="/ipcjs/rx-mipush" />
+  <prescription link="/ipcjs/rx-baidu-push" />
   <prescription link="/ipcjs/rx-jpush" />
   <prescription link="/ipcjs/rx-umeng-push" />
 </prescriptions>
